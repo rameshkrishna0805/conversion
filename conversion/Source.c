@@ -56,6 +56,7 @@ void itoh(int n)
 int main()
 {
 	int n;
+	//
 	scanf_s("%d", &n);
 	itob(n);
 	itoh(n);
